@@ -54,7 +54,7 @@
       },
       "BOT_ID": {
          "description": "Your bot ID.. Use any other bot to get it.",
-         "required": true,
+         "required": false,
          "value": ""
       },
       "HEROKU_API_KEY": {
